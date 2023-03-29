@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SVVS-KOUNDINYA
 - 👀 I’m interested in cutting edge technologies
-- 🌱 I’m currently learning Modeica, Python
+- 🌱 I’m a Solutions Architect in AWS
 - 📫 How to reach me - svvskoundinya@gmail.com
 
 <!---
